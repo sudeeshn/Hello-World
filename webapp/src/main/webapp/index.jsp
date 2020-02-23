@@ -8,3 +8,4 @@
 <h2> Welcome to Docker Image Deployed in TomCat </h2>
 <h3> Deploying  Docker Image to Docker Machine From Ansiblehsot </h3>
 <h2> Using Ansibleplaybook deploying Docker-container to Docker-Server</h2>
+<h5> TOMCAT DEPLOY </h5>
